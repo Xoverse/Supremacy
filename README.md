@@ -1,2 +1,6 @@
-# Supremacy
-Supremacy Roblox script
+```diff
+! SUPREMACY
+- for roblox
+```
+
+**maybe later**
